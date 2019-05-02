@@ -1,0 +1,8 @@
+object analysis
+object analysis
+list analysis
+object analysis
+list analysis
+[
+        "calculus" ,"linear algebra"
+    ](NUMBER):19

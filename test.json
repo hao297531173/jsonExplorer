@@ -1,0 +1,18 @@
+{
+    "Tony":{
+        "age" : 18,
+        "major" : "computer science",
+        "course" : [
+            "calculus", "linear algebra"
+        ],
+        "isMonitor" : false
+    },
+    "Mary":{
+        "age" : 19,
+        "major" : "physics",
+        "course" : [
+            "machanics", "electromagnetism"
+        ],
+        "isMonitor" : true
+    }
+}
