@@ -10,7 +10,7 @@
 ## 组成部分<br>
  **前端 词法分析+语法分析 [parser.cpp](https://github.com/hao297531173/jsonExplorer/blob/master/parser.cpp)**<br>
  **其头文件[parser.h](https://github.com/hao297531173/jsonExplorer/blob/master/parser.h)**<br>
- 这个部分实现起来比较简单这里就不多说了
+ 这个部分实现起来比较简单这里就不多说了<br>
  **后端统一写成一个类了 [runner.cpp](https://github.com/hao297531173/jsonExplorer/blob/master/runner.cpp)**<br>
  **及其头文件[runner.h](https://github.com/hao297531173/jsonExplorer/blob/master/runner.h)**<br>
  **错误抛出统一写在[error.h](https://github.com/hao297531173/jsonExplorer/blob/master/error.h)**<br>
