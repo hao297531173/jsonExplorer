@@ -18,4 +18,4 @@
  **version 1.0主要是实现了一些内核的功能，提供接口较少，目前只提供了查询数据，遍历数据和输出json文件的核心功能，具体的查询操作参见[test.cpp](https://github.com/hao297531173/jsonExplorer/blob/master/test.cpp)**<br>
  ## 我想说的一些话<br>
 **这是我第一次一个人完成如此大的项目，难免会存在不足，比如对于代码的安排就很不合理，还有单词拼错（(*/ω＼*)），希望大佬们可以给予宝贵的意见或者建议，感谢大佬们的支持**<br>
- 
+**[我在csdn中简单的写了一下实现思路](https://blog.csdn.net/haohulala/article/details/89784831)**<br>
